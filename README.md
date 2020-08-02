@@ -21,7 +21,9 @@ Collection of Artificial Intelligence, Computer Vision, Machine Learning, Deep L
 ## **Machine Learning**
 Research Group / Lab |Research Areas| Institute |Carrers|
 ---------------------|--------------|-----------|-------|
+[ Machine Learning Lab](https://mll.iiit.ac.in/)|Reinforcement Learning, Deep Learning, Statistical Learning Theory, Multi-agent Systems, Game Theory and Mechanism Design, Blockchains, Explainable and Fair AI|IIIT Hyderabad|---
 [Center for Visual Information Technology (CVIT) ](https://cvit.iiit.ac.in/)|Image processing, computer vision, computer graphics and machine learning|IIIT Hyderabad|---
+[AI/ML Group](https://www.cse.iitb.ac.in/~ml/)|Machine Learning|IIT Bombay|---
 
 
 ## **Computer Vision**
@@ -46,7 +48,9 @@ Research Group / Lab |Research Areas| Institute |Carrers|
 [Computing and Vision Lab](https://www.iitbhu.ac.in/dept/cse/facilities/labs)|Image Processing, Computer Vision, and Machine Learning,Computer Graphics, Operating Systems, and Data Structures|IIT BHU |---
 [Visual Computing and Analytics Lab](https://www.iitbhu.ac.in/dept/cse/facilities/labs)|Computer Vision, Data Science and related areas of Machine learning / Deep learning |IIT BHU |---
 [Image Processing and Computer Vision (IPCV) Laboratory ](https://www.iitg.ac.in/eee/IPCV.html)|music signal processing, histopathology image processing, denoising, video processing, image superresolution, image forensic, computer vision, image hashing|IIT Guwahati|---
-
+[Computer Vision and Intelligence](https://iitmcvg.github.io/)|Pattern Recogntion - Deep learning, autonomous mapping and navigation, reinforcement agents|IIT Madras|---
+[Visual Learning and Intelligence Lab (VIGIL) ](http://www.iith.ac.in/vilg/index.html)|Exploring features to describe video content,Video genre classification,Activity recognition,Surveillance video analysis,Expression recognition,Active video understanding for recommendation systems|IIT HYDERABAD|---
+[Vision, Graphics, Imaging & Learning (ViGIL) Lab](https://www.cse.iitb.ac.in/vigil/doku.php)|Image creation, acquisition, representation, visualization, manipulation, processing, and analysis|IIT Bombay|---
 ## **Natural language processing**
 Research Group / Lab |Research Areas| Institute |Carrers|
 ---------------------|--------------|-----------|-------|
