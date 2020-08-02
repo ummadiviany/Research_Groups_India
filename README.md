@@ -54,10 +54,32 @@ Research Group / Lab |Research Areas| Institute |Carrers|
 ## **Natural language processing**
 Research Group / Lab |Research Areas| Institute |Carrers|
 ---------------------|--------------|-----------|-------|
+[Machine Translation and Natural Language Processing Lab](https://ltrc.iiit.ac.in/nlpmt/)| Syntax and parsing, semantics and word sense disambiguation, discourse and tree banking, machine translation, etc|IIIT Hyderabad|
+[The Cognitive NLP lab](http://www.cfilt.iitb.ac.in/cognitive-nlp/)|Human language translation, sentiment analysis, sarcasm detction, text-reading, understanding and annotation effort using eye-tracking technology|IIT Bombay|---
+[AI-NLP-ML GROUP](http://www.iitp.ac.in/~ai-nlp-ml/)|Artificial Intelligence-Natural Language Processing-Machine Learning|IIT Patna|---
 [Computer Vision and Pattern Recognition Unit](https://www.isical.ac.in/~cvpr/)|Optical Character Recognition,Natural Language Processing,tri-lingual computer dictionary,bio-medical image processing,neural networks and genetic algorithms|Indian Statistical Institute ,Kolkata|---
 [Natural Language Processing Lab](https://www.iitbhu.ac.in/dept/cse/facilities/labs)|Named Entity Recognition,Language Identification,Question Answering,Metaphor Detection Transliteration and Word Transduction,Morphological Analysis, Generation and Disambiguation,Embeddings and representation,Emotion Analysis,Opinion Summarization and Diversification,Reference Scope Identification for Citances|IIT BHU |---
+[Information Retrieval and Extraction Lab](https://irel.iiit.ac.in/)| Artificial Intelligence, Machine Learning and Natural Language Processing|IIIT Hyderabad|---
+[ Natural Language Processing and Machine Learning Lab ](https://www.srmist.edu.in/natural-language-processing-machine-learning-lab)|Natural Language Processing (NLP) and Machine Learning|SRM University|---
+
 
 ## **Robotics**
 Research Group / Lab |Research Areas| Institute |Carrers|
 ---------------------|--------------|-----------|-------|
+[Robotics Research Center](https://robotics.iiit.ac.in/)| Mobile and Aerial Robotics, Robotic Vision, Mechanism Design and Multi Robotic Systems|IIIT Hyderabad|---
 [Intelligent Computing and Robotics](https://www.iitbhu.ac.in/dept/cse/facilities/labs)|computing Hardware and Software|IIT BHU |---
+[Robotics Laboratory](https://ed.iitm.ac.in/~robotics_lab/index.html)|Underwater Robotics, Mobile Robotics, Manipulator Kinematics and Medical Robotics|IIT Madras|---
+[Center of Robotics and Machine Intelligence](https://robita.iiita.ac.in/)| Multi modal ( Vision, Speech, gesture) Human -Robot Interactions, Mobile Robot navigation|IIIT Allahabad|---
+[Robotics and Automation](https://www.iitk.ac.in/me/research/specialization-areas/robotics-and-automation)|Motion planning,knee joints,Micro Sensors and Actuators,Intelligent control systems,Exoskeleton,Biped Locomotion|IIT KANPUR|---
+[ Robotics Laboratory ](https://www.srmist.edu.in/content/robotics-laboratory)|ABB IRB 1410 6 axis Industrial robot, ABB IRB360 Flexi picker vision robot along with its simulation software namely robot studio V 6.0,Raspberry pi , Beagle bone, Arudino uno, ARM processors|SRM University|---
+[Robotics Lab](http://www.iitg.ac.in/cse/robotics/)||IIT Guwahati|---
+[Robotics Lab](https://roboticsiitj.weebly.com/)|kinematic, dynamics, motion planning, programming, and control of robots|IIT Jodhpur|---
+[ Center Robotics and Mechatronics ](http://nitm.ac.in/p/rm)||NIT MEGHALAYA|---
+
+
+## **Speech Processing**
+Research Group / Lab |Research Areas| Institute |Carrers|
+---------------------|--------------|-----------|-------|
+[Speech and Vision Laboratory (SVL)](http://speech.iiit.ac.in/)|Speech signal processing,Speech-to-text conversion,Speaker verification and recognition Speech enhancement and more|IIIT Hyderabad|---
+[Speech and Vision Laboratory](https://www.cse.iitm.ac.in/lab_details.php?arg=MTE=)|Speech Synthesis and Recognition|IIT Madras|---
+[Speech and Music Technology Lab](https://www.cse.iitm.ac.in/lab_details.php?arg=MTQ=)|Speech Synthesis and Recognition, Music Information Retrieval, Music Processing|IIT Madras|---
