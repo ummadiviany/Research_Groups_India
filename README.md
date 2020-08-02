@@ -24,6 +24,9 @@ Research Group / Lab |Research Areas| Institute |  Carrers|
 
 
 ## **Computer Vision**
+Research Group / Lab |Research Areas| Institute |  Carrers|
+---------------------|--------------|-----------|---------|
+[Center for Visual Information Technology (CVIT) ](https://cvit.iiit.ac.in/)|Image processing, computer vision, computer graphics and machine learning|IIIT Hyderabad|---
 
 
 
